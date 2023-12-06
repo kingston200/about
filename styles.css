@@ -7,3 +7,14 @@ body {
   p {
     color: rgb(0, 0, 0);
   }
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: left;
+  }
+  
+  h3 {
+    text-align: right;
+  }
